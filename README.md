@@ -1,4 +1,4 @@
-# Trampelpfade am etliberg
+# Trampelpfade am Uetliberg
 
 Source data and scripts for the interactive "Trampelpfade am Uetliberg" map at https://stijnvermeeren.be/uetliberg.
 
